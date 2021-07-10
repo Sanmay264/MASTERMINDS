@@ -1,1 +1,1 @@
-# MASTERMINDS
+# MasterMinds
