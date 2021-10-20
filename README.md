@@ -7,3 +7,7 @@ Short Explaination Of Our Project-
 Link to open Web Page-
 
 •	https://hackthonteam.github.io/MASTERMINDS/
+
+Link for Repository-
+
+•	https://github.com/Hackthonteam/MASTERMINDS
